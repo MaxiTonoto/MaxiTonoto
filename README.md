@@ -9,7 +9,7 @@
 - **Databases:** SQLite3, PostgreSQL  
 - **Editors:** VSCodium, Sublime Text 3  
 - **Version control:** Git & GitHub (._.)  
-- **Other:** Some Java  
+- **Other:** Java, Lua  
 
 ## 🦧 About me  
 - 💻 I like tinkering with languages, frameworks, etc.  
