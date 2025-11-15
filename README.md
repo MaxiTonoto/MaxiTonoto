@@ -1,5 +1,4 @@
-# Hello 🦧  
-## My name's Maximiliano.  
+# Hello. Name's Maximiliano 🦧  
 
 - Information Systems Student. **2nd year**. 🧑‍🎓
 - Road to becoming a **full-stack developer** 🦧  
