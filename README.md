@@ -1,6 +1,6 @@
 # Hello. Name's Maximiliano 🦧  
 
-- Information Systems Student. **2nd year**. 🧑‍🎓
+- Information Systems Student. **3rd year**. 🧑‍🎓
 - Road to becoming a **full-stack developer** 🦧  
 
 ## Stack and Tools 🛠️  
