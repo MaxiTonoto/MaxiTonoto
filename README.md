@@ -1,17 +1,15 @@
 # Hello. Name's Maximiliano 🦧  
 
-- Information Systems Student. **3rd year**. 🧑‍🎓
-- Road to becoming a **full-stack developer** 🦧  
+- IT Systems Student. **3rd year**. 🧑‍🎓
+- **Full-stack dev** wannabe 🦧  
 
 ## Stack and Tools 🛠️  
-- **Backend:** Python, Django, DRF, SimpleJWT  
-- **Frontend:** HTML5, React, TailwindCSS, Bulma  
-- **Databases:** SQLite3, PostgreSQL  
-- **Editors:** VSCodium, Sublime Text 3  
-- **Version control:** Git & GitHub (._.)  
+- **Backend:** Python, Django, DRF  
+- **Frontend:** HTML5, React, TailwindCSS, MUI  
+- **Databases:** SQLite3, PostgreSQL
+- **Version control:** Git & GitHub (ofc ._.)  
 - **Other:** Java, Lua  
 
 ## 🦧 About me  
-- 💻 I like tinkering with languages, frameworks, etc.  
-- 🧉 No coffee, please.  
-- 🦧 Most of my repos are private.  
+- 💻 I like tinkering with languages, frameworks, etc.
+- 🦧 Most of my repos are private.
