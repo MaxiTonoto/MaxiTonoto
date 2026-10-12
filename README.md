@@ -1,4 +1,4 @@
-🇦🇷 [Español](#hola-soy-maximiliano-) · 🇬🇧 [English](#hello-names-maximiliano-)
+🌐 [Español](#hola-soy-maximiliano-) · [English](#hello-names-maximiliano-)
 
 # Hola. Soy Maximiliano 🦧
 
